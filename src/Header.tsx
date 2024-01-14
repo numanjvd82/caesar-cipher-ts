@@ -55,7 +55,7 @@ const Header: React.FC = () => {
       <Dropdown menu={{ items }}>
         <Typography.Title
           style={{ color: "white", margin: 0, cursor: "pointer" }}
-          level={5}
+          level={4}
         >
           Ciphers
         </Typography.Title>
