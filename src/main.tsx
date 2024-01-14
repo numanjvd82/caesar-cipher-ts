@@ -12,6 +12,11 @@ const RootComponent = () => {
           token: {
             colorPrimary: "#4826de",
           },
+          components: {
+            Card: {
+              lineWidth: 1,
+            },
+          },
         }}
       >
         <AntDApp>
